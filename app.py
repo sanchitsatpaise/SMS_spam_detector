@@ -51,7 +51,7 @@ except Exception as e:
     st.stop()
 
 # --- HEADER ---
-st.title("🛡️ Magic Spam Detector 🛡️")
+st.title("🛡️ SMS Spam Detector 🛡️")
 st.write("Is that message a **Gift** 🎁 or a **Trap** 🪤? Find out instantly!")
 st.divider()
 
@@ -104,4 +104,5 @@ if st.button("🔍 Analyze Message"):
 # --- FOOTER ---
 st.divider()
 st.caption("Built with ❤️ using Streamlit & Machine Learning")
+
 
