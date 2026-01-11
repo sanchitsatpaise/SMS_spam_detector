@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # --- CONFIGURATION ---
 st.set_page_config(
-    page_title="Spam Detector",
+    page_title="SMS Spam Detector",
     page_icon="🛡️",
     layout="centered"
 )
@@ -104,3 +104,4 @@ if st.button("🔍 Analyze Message"):
 # --- FOOTER ---
 st.divider()
 st.caption("Built with ❤️ using Streamlit & Machine Learning")
+
