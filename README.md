@@ -68,11 +68,11 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```plaintext
-├── app.py              # Main Streamlit application
-├── model.pkl           # Pre-trained Multinomial Naive Bayes model
-├── vectorizer.pkl      # Pre-trained TF-IDF vectorizer
-├── requirements.txt    # Required Python dependencies
-└── README.md           # Project documentation
+├── app.py                                  # Main Streamlit application
+├── logistic_regression_model.pkl           # Pre-trained Multinomial Naive Bayes model
+├── tfidf_vectorizer(2).pkl                 # Pre-trained TF-IDF vectorizer
+├── requirements.txt                        # Required Python dependencies
+└── README.md                               # Project documentation
 ```
 
 ---
