@@ -7,3 +7,4 @@ matplotlib>=3.8
 plotly>=5.18
 pyarrow>=14.0
 pillow>=10.2.0
+nltk==3.9.1
