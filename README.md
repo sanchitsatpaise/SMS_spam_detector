@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-🔗 *Insert your deployed app link here*
+🔗https://smsspamdetector-4771.streamlit.app/
 
 
 ---
